@@ -8,9 +8,9 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "mohammadctl",
-	Short: "mohammadctl is a very useless cli",
-	Long:  `in fact, mohammadctl is the most useless cli.`,
+	Use:   "mammadctl",
+	Short: "mammadctl is a very useless cli",
+	Long:  `in fact, mammadctl is the most useless cli.`,
 }
 
 func init() {
